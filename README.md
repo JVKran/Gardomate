@@ -3,11 +3,7 @@ When eating a salad, it’s always nice to have some herbs to go with it. Howeve
 
 When we’re going to do this, let’s just go all-in. Not just watering, but also temperature and humidity control with a fan. I also planned on adding growlights, but that hasn’t been possible yet due to shipment delays. I’ll add them when they arrive.
 
-Since this greenhouse is pretty large, I needed to really step up my game with this irrigation plan; the area that needs to be covered is pretty large… I needed approximately 2 meters of food-safe silicone tube and a food-safe peristaltic pump that’s powerful enough to push the water through the holes. All in all the first test was succesful.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V8b7QdYzBEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+Since this greenhouse is pretty large, I needed to really step up my game with this irrigation plan; the area that needs to be covered is pretty large… I needed approximately 2 meters of food-safe silicone tube and a food-safe peristaltic pump that’s powerful enough to push the water through the holes. All in all the first test was succesful, as can be seen in [this video](https://youtu.be/V8b7QdYzBEY).
 
 The tape is just temporary; I’m trying to limit my movements due to the pandemic and picked up this food-safe silicone kit when I was near a shop that sold them. Furthermore, I needed to measure when it would be time to water the herbs. That’s done with a capacitive soil moisture sensor that’s embedded in the soil. The wires are located next to the water tube.
 
