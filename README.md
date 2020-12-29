@@ -1,4 +1,4 @@
-<img src="https://i0.wp.com/jochemvk.duckdns.org/wp-content/uploads/2020/08/Greenhouse.jpg?fit=850%2C580&ssl=1" width=50% height=50% align="right">
+<img src="https://projects.jvkran.com/wp-content/uploads/2020/12/Greenhouse-850x580.jpg" width=50% height=50% align="right">
 
 # Greenhouse
 When eating a salad, it’s always nice to have some herbs to go with it. However, to get those herbs, they first have to grow. And to grow they need… You guessed it, water. Watering isn’t everyones strongest point. It isn’t mine either. That’s how I’ve come up with the idea to create an automated greenhouse; Gardomate. Gardomate stands for Garden Automate.
